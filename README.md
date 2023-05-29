@@ -1,3 +1,4 @@
 # fit_2188_CauTrucDuLieuVaGiaiThuat
-fit_dttx_cau truc du lieu va giai thuat 
+fit_Cấu trúc dữ liệu và giải thuật_DTTX
+_Ôn tập
 _Giải đề thi Cấu trúc dữ liệu giải thuật
